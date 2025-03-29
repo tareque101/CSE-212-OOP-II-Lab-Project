@@ -1,0 +1,8 @@
+Project: Expense Tracker
+A basic JavaFX app where users can:
+
+Add expenses (category, amount, description)
+
+View all expenses in a table
+
+See total spending
